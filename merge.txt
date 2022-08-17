@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this line from main branch
 this is 2nd line from main branch
 
+=======
+this is changed from b1 branch
+this is remote merging
+>>>>>>> 9f7d45843348df56266be311e3e0bd7074ffb797
