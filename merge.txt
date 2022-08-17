@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-1st line of text in merge
-appended some line to merge.txt
-=======
-replacing content of this file to merge later
->>>>>>> branch1
+this is 1st line of code
